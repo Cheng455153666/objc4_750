@@ -1,0 +1,117 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/build/Debug/objc",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "List.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/OldClasses.subproj/List.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObjCRuntime.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/NSObjCRuntime.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/NSObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "Object.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/Object.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protocol.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/Protocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "hashtable.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/hashtable.h"
+        },
+        {
+          'type': 'file',
+          'name': "hashtable2.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/hashtable2.h"
+        },
+        {
+          'type': 'file',
+          'name': "maptable.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/maptable.h"
+        },
+        {
+          'type': 'file',
+          'name': "message.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/message.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-abi.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-abi.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-api.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-api.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-auto.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-auto.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-class.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-class.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-exception.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-exception.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-gdb.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-gdb.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-internal.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-load.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-load.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-runtime.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-runtime.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc-sync.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc-sync.h"
+        },
+        {
+          'type': 'file',
+          'name': "objc.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/objc.h"
+        },
+        {
+          'type': 'file',
+          'name': "runtime.h",
+          'external-contents': "/Users/chengliqing/Documents/_CKNote/sourcecode/objc4-750-master/runtime/runtime.h"
+        }
+      ]
+    }
+  ]
+}
